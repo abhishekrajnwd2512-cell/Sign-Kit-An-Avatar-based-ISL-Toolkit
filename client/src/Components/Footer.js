@@ -36,18 +36,10 @@ function Footer() {
                             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}} />
                             <p><Link to='/sign-kit/home' className='footer-link'>Home</Link></p>
                             <p><Link to='/sign-kit/feedback' className='footer-link'>Feedback</Link></p>
-                            <p><a href="https://github.com/spectre900/Audio-to-Sign-Language-using-3D-Avatars" className='footer-link'>Github repo</a></p>
+                        
                         </div>
 
-                        <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-                            <h6 className="text-uppercase font-weight-bold">Contact</h6>
-                            <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}}/>
-                            <p><i className="fa fa-lg fa-home me-3 ms-0"></i><span className='footer-text'> NITK Surathkal, Mangalore</span></p>
-                            <p><i className="fa fa-envelope me-3 ms-0"></i><span className='footer-text'> aprameyadash.191it209@nitk.edu.in </span> </p>
-                            <p><i className="fa fa-envelope me-3 ms-0"></i><span className='footer-text'> pratham.191it241@nitk.edu.in </span> </p>
-                            <p><i className="fa fa-phone me-3 ms-0"></i><span className='footer-text'> + 91 7735784564 </span> </p>
-                            <p><i className="fa fa-phone me-3 ms-0"></i><span className='footer-text'> + 91 9008240665 </span> </p>
-                        </div>
+                        
                     </div>
                 </div>
 
