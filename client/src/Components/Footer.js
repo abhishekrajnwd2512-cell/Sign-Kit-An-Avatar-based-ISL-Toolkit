@@ -9,7 +9,7 @@ function Footer() {
                 <div className="container">
                     <div className="row py-4 d-flex justify-content-center align-items-center">
                         <div className="col-md-6 col-lg-5 text-center footer-text text-white">
-                            Check out our <a href="https://github.com/spectre900/Audio-to-Sign-Language-using-3D-Avatars" className='footer-link'>Github repo</a> for more information!
+                            Developed and Deployed By Arnav Singh For People Who Need It.
                         </div>
                     </div>
                 </div>
