@@ -159,6 +159,46 @@ function Feedback() {
         </div>
       </div>
     </div>
+{/* START: User Testimonials & Feedback Showcase */}
+      <div className="container mt-5" style={{ marginTop: '40px' }}>
+        <h3 className="text-center mb-4" style={{ color: '#333' }}>What Evaluators & Users Are Saying</h3>
+
+        <div className="row justify-content-center g-4">
+          
+          {/* Feedback Box 1: AI Teacher */}
+          <div className="col-md-5 mb-4">
+            <div className="card h-100 border-primary shadow-sm" style={{ backgroundColor: '#ffffff' }}>
+              <div className="card-header bg-primary text-white text-center fw-bold">
+                Our AI Teacher
+              </div>
+              <div className="card-body">
+                <p className="card-text" style={{ fontSize: '14px', color: '#333', lineHeight: '1.5' }}>
+                  "Mujhe website bohot achha laga i'd give it a 10/10 lekin isme Recording to sign language dal sakte hai"
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* Feedback Box 2: Subreddit Member */}
+          <div className="col-md-5 mb-4">
+            <div className="card h-100 border-primary shadow-sm" style={{ backgroundColor: '#ffffff' }}>
+              <div className="card-header bg-primary text-white text-center fw-bold">
+                Adwik Prasad Sah - Surat
+              </div>
+              <div className="card-body">
+                <p className="card-text" style={{ fontSize: '14px', color: '#333', lineHeight: '1.5' }}>
+                  "I really liked it UI can be better but overall bohot achha laga mujhe"
+                </p>
+                <p className="mt-3 text-muted fst-italic border-top pt-2" style={{ fontSize: '12px' }}>
+                  *Note: This feedback was given by one of the helpful members of the Indian Sign Language subreddit.*
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      {/* END: User Testimonials & Feedback Showcase */}
   );
 }
 
