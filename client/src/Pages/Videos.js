@@ -56,7 +56,7 @@ function Videos() {
             Welcome to the ISL video section of Sign Kit. Create your own public
             or private videos, share with your friends and colleagues or browse
             through the videos created by others and shared with the entire
-            community!
+            community! NOTE: The Videos contributed will be used to train my Machine Learning Model for our new feature coming out soon.
           </div>
         </div>
       </div>
