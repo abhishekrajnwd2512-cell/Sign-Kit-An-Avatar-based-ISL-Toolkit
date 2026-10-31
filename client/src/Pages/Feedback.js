@@ -196,7 +196,7 @@ function Feedback() {
             </div>
           </div>
 
-        </div>
+       
       </div>
       {/* END: User Testimonials & Feedback Showcase */}
   );
