@@ -17,7 +17,15 @@ function Masthead() {
         >
           The complete toolkit for Indian Sign Language. Explore our range of
           features which have been carefully designed keeping in mind the
-          specific needs of people related to ISL.
+          specific needs of people related to ISL.{" "}For a tutorial click{" "}
+<a
+  href="https://youtu.be/NHrOwkBfRzI?si=owAgR2THbNmOmyzV"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-info"
+>
+  here
+</a>.
         </div>
         <div className="d-flex justify-content-center mt-5">
           <a className="btn btn-info btn-lg px-3" href="#intro">
