@@ -157,10 +157,7 @@ function Feedback() {
             </div>
           </div>
         </div>
-      </div>
-    </div>
-
-      <div className="container mt-5" style={{ marginTop: '40px' }}>
+   <div className="container mt-5" style={{ marginTop: '40px' }}>
         <h3 className="text-center mb-4" style={{ color: '#333' }}>What Evaluators & Users Are Saying</h3>
 
         <div className="row justify-content-center g-4">
@@ -198,7 +195,10 @@ function Feedback() {
 
        
       </div>
-      {/* END: User Testimonials & Feedback Showcase */}
+      {/* END: User Testimonials & Feedback Showcase */}   </div>
+    </div>
+
+      
   );
 }
 
