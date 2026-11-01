@@ -32,7 +32,21 @@ function Masthead() {
             Get Started <i className="fa fa-angle-down" />
           </a>
         </div>
-      </div>
+      <div className="d-flex justify-content-center mt-5 mb-4 px-3">
+  <img
+    src="/WhatsApp%20Image%202026-11-01%20at%2011.59.27.jpeg"
+    alt="Community feedback about Sign Kit"
+    className="img-fluid"
+    style={{
+      width: "100%",
+      maxWidth: "750px",
+      height: "auto",
+      borderRadius: "12px",
+      boxShadow: "0 8px 24px rgba(0,0,0,0.2)",
+    }}
+  />
+</div>
+    </div>
     </div>
   );
 }
