@@ -32,10 +32,26 @@ function Masthead() {
             Get Started <i className="fa fa-angle-down" />
           </a>
         </div>
-      <div className="d-flex justify-content-center mt-5 mb-4 px-3">
+      <div
+  className="d-flex justify-content-center align-items-center mt-5 mb-4 px-3"
+  style={{ gap: "20px", flexWrap: "wrap" }}
+>
+  <img
+    src="/review-1.jpeg"
+    alt="Community review 1"
+    className="img-fluid"
+    style={{
+      width: "100%",
+      maxWidth: "250px",
+      height: "auto",
+      borderRadius: "12px",
+      boxShadow: "0 8px 24px rgba(0,0,0,0.2)",
+    }}
+  />
+
   <img
     src="/WhatsApp%20Image%202026-11-01%20at%2011.59.27.jpeg"
-    alt="Community feedback about Sign Kit"
+    alt="Community feedback"
     className="img-fluid"
     style={{
       width: "100%",
@@ -46,7 +62,18 @@ function Masthead() {
     }}
   />
 
-    
+  <img
+    src="/review-2.jpeg"
+    alt="Community review 2"
+    className="img-fluid"
+    style={{
+      width: "100%",
+      maxWidth: "250px",
+      height: "auto",
+      borderRadius: "12px",
+      boxShadow: "0 8px 24px rgba(0,0,0,0.2)",
+    }}
+  />
 </div>
     </div>
     </div>
