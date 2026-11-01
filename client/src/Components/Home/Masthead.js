@@ -39,7 +39,7 @@ function Masthead() {
     className="img-fluid"
     style={{
       width: "100%",
-      maxWidth: "750px",
+      maxWidth: "550px",
       height: "auto",
       borderRadius: "12px",
       boxShadow: "0 8px 24px rgba(0,0,0,0.2)",
