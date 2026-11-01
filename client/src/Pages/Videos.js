@@ -155,7 +155,31 @@ function Videos() {
                 Browse through the ISL videos created by others and shared with
                 the entire community!
               </div>
-            </div>
+          <div className="container my-4">
+  <div className="row justify-content-center">
+    <div className="col-lg-8 col-md-10 col-12">
+      <div
+        style={{
+          position: "relative",
+          width: "100%",
+          aspectRatio: "16 / 9",
+          borderRadius: "12px",
+          overflow: "hidden",
+        }}
+      >
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/wJ3ZSb904x8"
+          title="ISL Video on greetings by ISLRTC"
+          width="100%"
+          height="100%"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
+          style={{ border: 0, position: "absolute", top: 0, left: 0 }}
+        />
+      </div>
+    </div>
+  </div>
+</div>  </div>
           </div>
         </div>
       </section>
