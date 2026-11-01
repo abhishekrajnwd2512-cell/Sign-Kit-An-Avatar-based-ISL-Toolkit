@@ -45,6 +45,13 @@ function Masthead() {
       boxShadow: "0 8px 24px rgba(0,0,0,0.2)",
     }}
   />
+
+    <h3
+    className="text-center mt-3 mb-4"
+    style={{ fontWeight: "700" }}
+>
+  Our Best Reviews!
+    </h3>
 </div>
     </div>
     </div>
