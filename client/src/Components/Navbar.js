@@ -20,6 +20,16 @@ function Navbar() {
                         <li className="nav-item"><Link to='/sign-kit/learn-sign' className="nav-link">Learn Sign</Link></li>
                         <li className="nav-item"><Link to='/sign-kit/all-videos' className="nav-link">Videos</Link></li>
                         <li className="nav-item"><Link to='/sign-kit/feedback' className="nav-link">Feedback</Link></li>
+                        <li className="nav-item">
+  <a
+    href="https://ishaara-sanket.vercel.app"
+    className="nav-link"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Live Translation
+  </a>
+</li>
                     </ul>
                 </div>
             </div>
