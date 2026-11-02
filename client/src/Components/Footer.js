@@ -43,7 +43,7 @@ function Footer() {
                     </div>
                 </div>
 
-                <div className="footer-copyright text-center py-3">© 2026 Copyright</div>
+                <div className="footer-copyright text-center py-3">© 2026 Copyright made by arnav and itisha</div>
             </div>
             </footer>
     )
