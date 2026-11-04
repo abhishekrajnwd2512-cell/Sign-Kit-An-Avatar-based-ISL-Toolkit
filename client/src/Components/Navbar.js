@@ -30,6 +30,15 @@ function Navbar() {
     Live Translation
   </a>
 </li>
+<li className="nav-item">
+        <a
+        href="https://signkitlearn.vercel.app"
+        className="nav-link"
+        target="_blank"
+        rel="noopener noreferrer">
+            Learning path
+            </a>
+            </li>
                     </ul>
                 </div>
             </div>
